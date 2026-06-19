@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Parth Mahale<br><br>Backend Developer | Machine Learning Enthusiast | Computer Engineering Student<br><br>I enjoy building scalable backend systems, real-time applications, and machine learning solutions. My experience includes FastAPI, MongoDB, React, WebSockets, REST APIs, and Scikit-learn.<br><br>🔹 FastAPI & Backend Development  <br>🔹 Real-Time Systems & WebSockets  <br>🔹 Database Design & REST APIs  <br>🔹 Machine Learning & Data Analysis  <br>🔹 Open Source & Continuous Learning  <br><br>Currently exploring AI Integration, Deep Learning, and MLOps.
+# About Me:
+# Parth Mahale<br><br>Backend Developer | Machine Learning Enthusiast | Computer Engineering Student<br><br>I enjoy building scalable backend systems, real-time applications, and machine learning solutions. My experience includes FastAPI, MongoDB, React, WebSockets, REST APIs, and Scikit-learn.<br><br>- FastAPI & Backend Development  <br>- Real-Time Systems & WebSockets  <br>- Database Design & REST APIs  <br>- Machine Learning & Data Analysis  <br>- Open Source & Continuous Learning  <br><br>Currently exploring AI Integration, Deep Learning, and MLOps.
 
 
 ## 🌐 Socials:
